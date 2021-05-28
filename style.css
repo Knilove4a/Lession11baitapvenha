@@ -1,0 +1,74 @@
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+	color: #999999;
+}
+h4{
+	color: #0000ff;
+	text-align: center;
+	font-family: Arial;
+}
+table,tr,td,th{
+	border-width: 1px;
+	border-color: #d7d7d7;
+	border-style: solid;
+	border-collapse: collapse;
+	margin:auto;
+	font-family: Arial;
+	height:30px;
+}
+table{
+	width: 659px
+}
+.mauxanh{
+	color: #65a530
+}
+th{
+	background: #65a530;
+	color :#ffffff;
+}
+.cot1{
+	width: 600px;
+}
+.cot2{
+	width: 300px;
+}
+.cot3{
+	width: 100px;
+}
+.indam{
+    font-weight: 600;
+}
+.dong2{
+	text-align: center;
+	background-color: #ffffbb;
+	font-weight: 600;
+}
+.maudo{
+	color: #ff0000;
+}
+td:nth-child(10){
+	color: #ff0000;
+}
+.dong1234{
+background-color:#d5ffff
+}
+tr:nth-child(-n+6){
+background-color: #d5ffff;
+}
+tr:nth-child(7){
+background-color: #e8f5de;
+}
+tr:nth-child(8){
+background-color: #d7d7d7;
+}
+tr:nth-child(n+20){
+background-color: #ffeaea;
+}
+tr:nth-child(23){
+background-color: #65a530;
+text-align: center;
+color: white;
+}
